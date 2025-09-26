@@ -7,3 +7,9 @@ configuration for [`tmux`](https://github.com/tmux/tmux) the **BEST** terminal m
 </div>
 
 ![screenshot](https://raw.githubusercontent.com/stephansama/static/refs/heads/main/images/tmux.png)
+
+<div align="center">
+
+Copyright © 2025-present [`@stephansama`](https://github.com/stephansama)
+
+</div>
